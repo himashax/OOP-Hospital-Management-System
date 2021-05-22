@@ -1,6 +1,6 @@
 package Model;
 
-//IT19128696 Mandakini G.H
+
 //Prescription model class
 
 public class Prescription {

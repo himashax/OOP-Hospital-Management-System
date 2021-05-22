@@ -1,6 +1,7 @@
 package Services;
 
-//IT19128696 
+
+
 //This class implements the IPrescriptionService and GenerateIDs interfaces
 
 import java.sql.Connection;

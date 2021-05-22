@@ -1,6 +1,6 @@
 package Model;
 
-//IT19128696 Mandakini G.H
+
 //Employee abstract class
 
 abstract class Employee {
@@ -150,7 +150,7 @@ abstract class Employee {
 		this.password = password;
 	}
 	
-	@Override
+	@Override	
 	public String toString() {
 		return "First Name " + getFirstName() + "\n" + "Last Name " + getLastName() + "\n" +"Age " + getAge() + "\n" 
 				+ "Gender " + getGender() + "\n" + "Phone " + getPhone() + "\n" + "Email Address" + getEmail() + "\n" + "Address " + getAddress() + "\n" + "Salary " + getSalary() + "\n" + "Password " + getPassword();

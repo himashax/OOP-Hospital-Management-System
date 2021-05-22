@@ -1,11 +1,8 @@
 package Services;
 
-//IT19128696 
-
-//This class implements the IOutPatientService and GenerateIDs interfaces
-//This class is used to implement the CRUD operations and other methods for OutPatient class
 
 import java.sql.Connection;
+
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

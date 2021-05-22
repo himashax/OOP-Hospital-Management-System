@@ -1,6 +1,5 @@
 package Services;
 
-//IT19128696
 
 import java.sql.Connection;
 
